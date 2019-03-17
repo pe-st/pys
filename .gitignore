@@ -12,6 +12,7 @@ options/recentProjectDirectories.xml
 options/runner.layout.xml
 options/security.xml
 options/statistics.*.xml
+options/stubIndex.xml
 options/updates.xml
 options/usage.statistics.xml
 options/web-browsers.xml
