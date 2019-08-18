@@ -1,3 +1,6 @@
+# Git bundles
+*.bundle
+
 *.kdbx
 consoles/.history/
 options/dimensions.xml
@@ -23,3 +26,4 @@ port
 port.lock
 pycharm.key
 tasks/
+workspace/*.xml
