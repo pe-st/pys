@@ -10,6 +10,7 @@ options/find.xml
 options/images.support.xml
 options/options.xml
 options/other.xml
+options/packages.xml
 options/proxy.settings.pwd
 options/recentProjectDirectories.xml
 options/runner.layout.xml
