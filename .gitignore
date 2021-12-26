@@ -1,7 +1,10 @@
 # Git bundles
 *.bundle
 
+*.db
 *.kdbx
+*.license
+*.pwd
 consoles/.history/
 disabled_update.txt
 options/actionSummary.xml
