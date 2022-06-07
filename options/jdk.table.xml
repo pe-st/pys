@@ -127,7 +127,6 @@
     <jdk version="2">
       <name value="Python 3.8 (garmin-connect-export)" />
       <type value="Python SDK" />
-      <version value="Python 3.8.2" />
       <homePath value="$USER_HOME$/.pyenv/versions/3.8.2/bin/python" />
       <roots>
         <classPath>
