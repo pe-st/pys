@@ -26,6 +26,7 @@ options/security.xml
 options/shownTips.xml
 options/statistics.*.xml
 options/stubIndex.xml
+options/trusted-paths.xml
 options/updates.xml
 options/usage.statistics.xml
 options/web-browsers.xml
