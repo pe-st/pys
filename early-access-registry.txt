@@ -1,2 +1,4 @@
 ide.experimental.ui
-false
+true
+idea.plugins.compatible.build
+

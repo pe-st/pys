@@ -8,8 +8,10 @@
 .lock
 consoles/.history/
 disabled_update.txt
+event-log-metadata/
 options/*FeedbackService.xml
 options/*InfoService.xml
+options/*SurveyService.xml
 options/*local.xml
 options/actionSummary.xml
 options/dimensions.xml
