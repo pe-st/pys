@@ -7,6 +7,7 @@
 *.pwd
 .lock
 consoles/.history/
+disabled_plugins.txt
 disabled_update.txt
 event-log-metadata/
 options/*FeedbackService.xml
@@ -15,9 +16,12 @@ options/*SurveyService.xml
 options/*local.xml
 options/actionSummary.xml
 options/aeIdeId.xml
+options/AIAssistantQuotaManager2.xml
 options/AINaturalLanguagePromotionState.xml
+options/AIOnboardingPromoWindowAdvisor.xml
 options/contributorSummary.xml
 options/dimensions.xml
+options/EventLogAllowedList.xml
 options/feature.usage.statistics.xml
 options/features.usage.statistics.xml
 options/find.recents.xml
